@@ -2,3 +2,5 @@
 /output*/
 target/
 .DS_store
+.pem
+wallet.json
